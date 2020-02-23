@@ -28,22 +28,18 @@
 .pale-order img{
     width: 100%;
   }
-  .card2 img{
-    width: 80px;
+.img-border{
+    box-shadow: 1px 1px 10px rgb(221, 220, 220);
+    padding: 30px 40px 20px 40px;
     
-  }
-  .card2{
-    padding:50px 70px;
-    margin: 20px;
-    border: none;
-    box-shadow: 1px 1px 10px rgb(231, 230, 230);
-  }
-  .pos-card{
-    position: relative;
-    top: 180px;
-    left: 10px;
-  }
-  .card-text{
-      padding-top: 20px;
-  }
-  
+}
+.img-border p{
+    padding-top: 20px;
+}
+.row{
+    padding-bottom: 40px;
+}
+.pole-order img{
+    width: 100%;
+}
+
