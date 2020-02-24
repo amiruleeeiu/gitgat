@@ -9,11 +9,28 @@
     border-radius: 10px;
     cursor: pointer;
 }
+.crsl-bg1{
+    background-image: url("images/bg1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 5%;
+    
+}
+.crsl-bg2{
+    background-image: url("images/bg2.png");
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: 8%;
+}
 .carousel-indicators li{
     background-image: linear-gradient(rgb(236, 240, 17), rgb(241, 109, 21));
     height: 6px;
     border-radius: 11px;
 }
+.col-md-6 p{
+    text-align: justify;
+}
+
 .ancor-color a{
     color: rgb(255, 94, 0);
 }
