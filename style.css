@@ -16,9 +16,7 @@
     border-radius: 10px;
     cursor: pointer;
 }
-h4{
-    text-align: center;
-}
+
 .card{
     padding: 40px 20px;
     border: none;
@@ -32,7 +30,7 @@ h4{
     width: 100%;
   }
 .img-border{
-    box-shadow: 1px 1px 10px rgb(221, 220, 220);
+    box-shadow: 1px 1px 10px rgb(240, 238, 238);
     padding: 30px 40px 20px 40px;
     margin: 20px;
     
@@ -46,4 +44,19 @@ h4{
 .pole-order img{
     width: 100%;
 }
-
+.carousel-indicators li{
+    background-image: linear-gradient(rgb(236, 240, 17), rgb(241, 109, 21));
+    height: 6px;
+    border-radius: 11px;
+}
+.ancor-color a{
+    color: rgb(255, 94, 0);
+}
+.border-img{
+    width: 100px;
+    height: 7px;
+    border-radius: 10px;
+}
+h4{
+    padding-bottom: 5px;
+}
