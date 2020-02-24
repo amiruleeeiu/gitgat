@@ -65,15 +65,10 @@
     height: 7px;
     border-radius: 10px;
 }
-
-.footer-top{
-    background-color: rgb(4, 166, 187);
-    width: 40%;
-    padding: 20px 20px;
-    margin: auto;
+#subscribers{
+    height: 200px;
+    background-color: #fcf0f4;
     border-radius: 10px;
-    margin-bottom: 100px;
-    color: white;
 }
 .icon-centre img{
     width: 3%;
