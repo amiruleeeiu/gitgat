@@ -2,13 +2,7 @@
     margin-top: 20px;
     margin-bottom: 50px;
 }
-.nav-item a{
-    color: black;
-}
 
-.header img{
-    width: 10%;
-}
 .btn-design{
     background-color: black;
     color:white;
@@ -35,6 +29,7 @@
 }
 h4{
     padding-bottom: 5px;
+    
 }
 .pale-order img{
     width: 100%;
