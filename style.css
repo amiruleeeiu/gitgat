@@ -27,9 +27,20 @@
     text-align: center;
 }
 h4{
-    padding-bottom: 5px;
-    
-}
+    display: inline-block;
+    position: relative;
+    padding-bottom: 10px;
+  }
+  h4::after{
+    content:'';
+    height: 5px;
+    width: 120px;
+    background-color: orange;
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    border-radius: 30px;
+  }
 .pale-order img{
     width: 100%;
   }
