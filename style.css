@@ -37,7 +37,7 @@
 .card{
     padding: 40px 20px;
     border: none;
-    box-shadow: 1px 1px 10px rgb(241, 240, 240);
+    box-shadow: 1px 1px 10px rgb(231, 229, 229);
     border-radius: 5px;
 }
 .card-body h5, p{
@@ -62,7 +62,7 @@
     width: 100%;
   }
 .img-border{
-    box-shadow: 1px 1px 10px rgb(240, 238, 238);
+    box-shadow: 1px 1px 10px rgb(228, 226, 226);
     padding: 30px 40px 20px 40px;
     margin: 20px;
     border-radius: 20px 0px;
@@ -84,7 +84,7 @@
 }
 #subscribers{
     height: 200px;
-    background-color: #fcf0f4;
+    background-color: #fadae5;
     border-radius: 10px;
 }
 .icon-centre img{
