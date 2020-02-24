@@ -16,7 +16,14 @@
     border-radius: 10px;
     cursor: pointer;
 }
-
+.carousel-indicators li{
+    background-image: linear-gradient(rgb(236, 240, 17), rgb(241, 109, 21));
+    height: 6px;
+    border-radius: 11px;
+}
+.ancor-color a{
+    color: rgb(255, 94, 0);
+}
 .card{
     padding: 40px 20px;
     border: none;
@@ -25,6 +32,9 @@
 }
 .card-body h5, p{
     text-align: center;
+}
+h4{
+    padding-bottom: 5px;
 }
 .pale-order img{
     width: 100%;
@@ -44,19 +54,29 @@
 .pole-order img{
     width: 100%;
 }
-.carousel-indicators li{
-    background-image: linear-gradient(rgb(236, 240, 17), rgb(241, 109, 21));
-    height: 6px;
-    border-radius: 11px;
-}
-.ancor-color a{
-    color: rgb(255, 94, 0);
-}
+
 .border-img{
     width: 100px;
     height: 7px;
     border-radius: 10px;
 }
-h4{
-    padding-bottom: 5px;
+
+.footer-top{
+    background-color: rgb(4, 166, 187);
+    width: 40%;
+    padding: 20px 20px;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    color: white;
 }
+.icon-centre img{
+    width: 3%;
+    padding: 3px;
+}
+.centre img{
+    width: 25%;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
